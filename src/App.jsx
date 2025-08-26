@@ -1,10 +1,12 @@
 import "./App.css";
+import Name from "./Name";
+import Cylinder from "./Cylinder";
 
 function App() {
   return (
     <>
       <div>
-        <h1>Hello World!</h1>
+        <Name />
       </div>
     </>
   );
